@@ -11,7 +11,7 @@ torchvision 0.10.0
 numpy 1.21.6
 ```
 ### Prepare Datasets
-Download RSITMD from [here](https://paperswithcode.com/dataset/rsitmd), and RSICD from [here](https://paperswithcode.com/dataset/rsicd).
+Download RSITMD dataset from [here](https://paperswithcode.com/dataset/rsitmd), and RSICD dataset from [here](https://paperswithcode.com/dataset/rsicd).
 
 Organize them in `your_dataset_root_dir`folder as follows:
 ```
@@ -24,7 +24,7 @@ Organize them in `your_dataset_root_dir`folder as follows:
 |     |-- val_caps_verify.txt
 |     |-- val_filename_verify.txt
 |
-|  |--<RSICD>/
+|  |--<RSITMD>/
 |     |--images
 
 ```
