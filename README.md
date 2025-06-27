@@ -26,7 +26,8 @@ Organize them in `your_dataset_root_dir`folder as follows:
 |
 |  |--<RSITMD>/
 |     |--images
-
+|     |--dataset_RSITMD.json
+|     |--rsitmd_api.py
 ```
 
 ## Training
